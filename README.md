@@ -6,9 +6,8 @@
 ¡Un gusto! Soy **Anthony Gean Franco Huaraca Huaraca**, estudiante de **Ingeniería de Software** en Perú 🇵🇪. Me apasiona el desarrollo web y tengo una gran curiosidad por la lógica de hardware y la automatización. Me considero una persona curiosa, en constante aprendizaje y enfocada en resolver problemas reales mediante el código.
 
 - 🎓 Actualmente cursando la carrera de Ingeniería de Software.
-- 🚀 Enfocado en dominar el desarrollo Full Stack (PHP/PostgreSQL).
-- 🔧 También exploro el mundo de **Arduino** y la electrónica.
-
+- 🚀 Enfocado en dominar el desarrollo Full Stack.
+- 🔧 También exploro en el mundo de la IA
 ---
 
 ## 🛠️ Mi Stack Tecnológico
